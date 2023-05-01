@@ -1,0 +1,32 @@
+h1{
+    color:rgb(180, 199, 218);
+    background:rgb(48, 170, 119)
+}
+p{
+    color:rgb(211, 59, 89);
+}
+pre{
+    color:blueviolet;
+    background: rgba(255, 255, 0, 0.671);
+}
+.box{
+    width:300px;
+    height: 400px;
+    background: green;
+    color:aliceblue;
+    margin-left:20px;
+    margin-top: 3cm;
+    padding-left: 30px;
+    padding-top: 3px;
+    border: 5px solid white;
+}
+.white{
+    color:aliceblue;
+    background-color: aqua;
+    height: 250px;
+    width: 150px;
+    margin-top: 2cm;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    padding-left: 5px;
+}

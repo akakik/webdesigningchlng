@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background: grey;
+}
+.content{
+    width: 100%;
+    height: 600px;
+}
+.footer{
+    width:100%;
+    height: 100px;
+    background: grey;
+}
+.left-sec{
+    width: 20%;
+    background: yellowgreen;
+    height: 600px;
+    float: left;
+}
+.right-sec{
+    width: 80%;
+    height: 600px;
+    background: goldenrod;
+    float:left
+}
+body{
+    margin:0;
+}
